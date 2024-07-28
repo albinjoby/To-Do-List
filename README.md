@@ -15,9 +15,3 @@ This project is a simple To-Do List web application that allows users to manage 
 - **HTML:** For structuring the web page.
 - **CSS:** For styling the application and making it visually appealing.
 - **JavaScript:** For handling task operations and interactions with local storage.
-
-## Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/todo-list.git
