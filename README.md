@@ -1,6 +1,7 @@
 # To-Do List Application
 
-![To Do List](https://github.com/user-attachments/assets/59287795-9474-4d08-be9e-7e583b343e10)
+![Capture-2024-07-29-213932](https://github.com/user-attachments/assets/93e3f2a4-27c5-4943-8a8e-311550de284f)
+
 
 This project is a simple To-Do List web application that allows users to manage their tasks by adding, removing, and marking them as complete or incomplete. The application also supports data persistence using the browser's local storage, ensuring that tasks are retained even after the page is refreshed.
 
