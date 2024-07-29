@@ -1,5 +1,4 @@
 # To-Do List Application
-![Uploading Capture-2024-07-29-213932.png…]()
 
 This project is a simple To-Do List web application that allows users to manage their tasks by adding, removing, and marking them as complete or incomplete. The application also supports data persistence using the browser's local storage, ensuring that tasks are retained even after the page is refreshed.
 
